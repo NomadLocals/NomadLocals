@@ -1,5 +1,13 @@
 # 🌟 NomadLocals - Social Network for Meetups 🚀
 
+[![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/tuusuario)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/tuperfil)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/tuusuario)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/tuusuario)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?&style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/tuusuario)
+
+
+
 NomadLocals is an innovative social networking platform designed to connect people who are seeking companionship to enjoy a wide range of activities. Are you feeling lonely and looking for someone to go for a walk, engage in sports, or enjoy a dinner at a restaurant with? NomadLocals provides you with the opportunity to find like-minded companions to share those experiences.
 
 ## Key Features 🎉:
