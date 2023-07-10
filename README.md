@@ -1,6 +1,6 @@
-<p align="center">
-  <h1>🌟 NomadLocals - Social Network for Meetups 🚀</h1>
-</p>
+## <p align="center">
+  ## <h1>🌟 NomadLocals - Social Network for Meetups 🚀</h1>
+## </p>
 
 
 <p align="center">
