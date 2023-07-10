@@ -1,4 +1,4 @@
-# <img src="./assets/4.png" alt="NomadLocals Header" width="800" height="200">
+# <img src="./assets/5.png" alt="NomadLocals Header" width="800" height="200">
 
 ## NomadLocals - Social Network for Meetups
 
