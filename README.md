@@ -1,33 +1,26 @@
-## <p align="center">
-  ## <h1>🌟 NomadLocals - Social Network for Meetups 🚀</h1>
-## </p>
-
+# NomadLocals - Social Network for Meetups
 
 <p align="center">
   <a href="https://github.com/tuusuario">
-    <img src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=GitHub&logoColor=white" alt="GitHub">
+    <img src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=GitHub&logoColor=white" alt="GitHub" height="20">
   </a>
   <a href="https://www.linkedin.com/in/tuperfil">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn" height="20">
   </a>
   <a href="https://twitter.com/tuusuario">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter">
+    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter" height="20">
   </a>
   <a href="https://www.instagram.com/tuusuario">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" height="20">
   </a>
   <a href="https://www.facebook.com/tuusuario">
-    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook">
+    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook" height="20">
   </a>
 </p>
 
-
-
-
-
 NomadLocals is an innovative social networking platform designed to connect people who are seeking companionship to enjoy a wide range of activities. Are you feeling lonely and looking for someone to go for a walk, engage in sports, or enjoy a dinner at a restaurant with? NomadLocals provides you with the opportunity to find like-minded companions to share those experiences.
 
-## Key Features 🎉:
+## Key Features 🎉
 
 ✅ Customized User Profiles: Create your unique profile on NomadLocals and share detailed information about your interests, hobbies, and favorite activities. This will help you find companions who share your likes and interests.
 
@@ -41,7 +34,7 @@ NomadLocals is an innovative social networking platform designed to connect peop
 
 ⭐ Ratings and Reviews: Rate your experiences with other users and leave feedback about your encounters. This helps build a reliable and positive community where all members feel safe and respected.
 
-## How It Works 🛠️:
+## How It Works 🛠️
 
 1️⃣ Sign Up for NomadLocals: Create a free account on NomadLocals and complete your profile with relevant information about yourself. The more information you provide, the more accurate the companion search results will be.
 
