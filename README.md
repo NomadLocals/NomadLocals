@@ -2,7 +2,7 @@
 
 NomadLocals is an innovative social networking platform designed to connect people who are seeking companionship to enjoy a wide range of activities. Are you feeling lonely and looking for someone to go for a walk, engage in sports, or enjoy a dinner at a restaurant with? NomadLocals provides you with the opportunity to find like-minded companions to share those experiences.
 
-Key Features 🎉:
+## Key Features 🎉:
 
 ✅ Customized User Profiles: Create your unique profile on NomadLocals and share detailed information about your interests, hobbies, and favorite activities. This will help you find companions who share your likes and interests.
 
@@ -16,7 +16,7 @@ Key Features 🎉:
 
 ⭐ Ratings and Reviews: Rate your experiences with other users and leave feedback about your encounters. This helps build a reliable and positive community where all members feel safe and respected.
 
-How It Works 🛠️:
+## How It Works 🛠️:
 
 1️⃣ Sign Up for NomadLocals: Create a free account on NomadLocals and complete your profile with relevant information about yourself. The more information you provide, the more accurate the companion search results will be.
 
