@@ -1,4 +1,4 @@
-##🌟 NomadLocals - Social Network for Meetups 🚀
+# 🌟 NomadLocals - Social Network for Meetups 🚀
 
 NomadLocals is an innovative social networking platform designed to connect people who are seeking companionship to enjoy a wide range of activities. Are you feeling lonely and looking for someone to go for a walk, engage in sports, or enjoy a dinner at a restaurant with? NomadLocals provides you with the opportunity to find like-minded companions to share those experiences.
 
