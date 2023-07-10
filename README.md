@@ -1,4 +1,11 @@
-# NomadLocals - Social Network for Meetups
+# <img src="./assets/4.png" alt="NomadLocals Header" width="800" height="200">
+
+## NomadLocals - Social Network for Meetups
+
+...
+
+
+...
 
 <p align="center">
   <a href="https://github.com/tuusuario">
